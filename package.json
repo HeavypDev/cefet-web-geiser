@@ -1,0 +1,24 @@
+{
+  "name": "geiser",
+  "version": "0.1.0",
+  "description": "Um cadastrador de jogos",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.12.4",
+    "hbs": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "cefet-web-geiser"
+  },
+  "keywords": [
+    "jogo",
+    "steam"
+  ],
+  "author": "ME",
+  "license": "ISC"
+}
